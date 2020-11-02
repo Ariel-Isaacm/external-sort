@@ -13,7 +13,7 @@ This has a couple of assumptions:
 ### How to use
 At the root directory just run ` ./gradlew run`
 
-###Notes
+### Notes
 
 I didn't have the time to actually measure the sizes of the objects to make sure this solution scales well with a lot of files.
 
