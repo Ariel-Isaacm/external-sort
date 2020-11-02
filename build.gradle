@@ -1,7 +1,11 @@
 plugins {
     id 'java'
+    id 'application'
 }
 
+application {
+    mainClassName = 'Application'
+}
 group 'externalSort'
 version '1.0-SNAPSHOT'
 
